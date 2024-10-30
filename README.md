@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/MarcelloCMaia">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MarcelloCMaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCMaia&layout=compact&langs_count=16&theme=dark"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MarcelloCMaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCMaia&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sqlserver logo"  />
